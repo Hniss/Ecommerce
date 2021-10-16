@@ -1,5 +1,5 @@
 # Library_HR
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-NISSOUL%20HAMZA%20)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-NISSOUL%20HAMZA%20-RED)
 ---
 ## Functions
 ## Client
